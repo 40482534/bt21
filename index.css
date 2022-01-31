@@ -2,6 +2,22 @@ h1{
 	float: 
 }
 
+#container {
+	margin: 0,auto;
+	width: 100%;
+}
+
+#header {
+	background-color: powderblue;
+	padding: 5px;
+	text-align: center;
+}
+
+#mainmenu {
+	width: 100%;
+	background-color: powderblue;
+}
+
 #mainmenu ul li {
 	list-style-type: none;
 	display: inline;
@@ -10,7 +26,7 @@ h1{
 #mainmenu li a {
 	display: block;
 	text-decoration: none;
-	padding: 8px 30px;
+	padding: 2px 2px;
 	float: left;
 }
 
